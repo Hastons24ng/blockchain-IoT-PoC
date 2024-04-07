@@ -17,7 +17,7 @@ dummyConfigServer = ['1','2','3','4','5']
 dummyFileIndex = 0
 
 #### CHANGE LOCAL IP TO YOUR LOCAL IP ADDRESS ####
-localIP = '192.168.70.138'
+localIP = '10.0.0.201'
 hosts = [
 	'http://'+localIP+':5001',
 	'http://'+localIP+':5002',
